@@ -21,7 +21,7 @@ help_msg = '''--------§a 赛博轮盘赌重制版V1.1 命令列表§r--------
 '''
 
 def on_load(server, old):
-    server.logger.info('赛博轮盘赌TNT插件V1.1加载成功！')
+    server.logger.info('赛博轮盘赌TNT插件V1.2加载成功！')
 
 def on_load(server: PluginServerInterface, old_module):
     def register_tnt_command(prefix):
