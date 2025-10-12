@@ -9,7 +9,7 @@
 - 使用 !!tnt list 查看已经加入赌局的玩家
 - 使用 !!tnt clear 清除已经加入的玩家（仅mcdreforged admin级权限以上可使用）
 - 使用 !!fuck 开启作弊模式（仅mcdreforged admin级权限以上可使用）
-- 使用 !!god 设置腐竹（仅mcdreforged admin级权限以上可使用）
+- 使用 !!god 设置服主以便!!tnt直接与服主对决（仅mcdreforged admin级权限以上可使用）
 
 ## 原理
 
