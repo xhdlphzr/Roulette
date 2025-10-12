@@ -9,7 +9,7 @@ god = []
 fuck = False
 
 # 帮助信息
-help_msg = '''--------§a 赛博轮盘赌重制版V1.2 命令列表§r--------
+help_msg = '''--------§a 赛博轮盘赌重制版V1.3 命令列表§r--------
                   §a By LBY123165 & daa0v0 & EndKing2012
 §b!!tnt help §f- §c显示帮助菜单
 §b!!tnt list §f- §c显示已加入游戏的玩家列表

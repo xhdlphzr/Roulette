@@ -1,6 +1,6 @@
 {
     "id": "roulette",
-    "version": "1.2.0",
+    "version": "1.3.0",
     "name": "Roulette",
     "description": "一个基于python随机数的赛博轮盘赌插件",
     "link": "https://github.com/xhdlphzr/Roulette#",
