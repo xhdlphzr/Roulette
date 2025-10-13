@@ -1,4 +1,7 @@
 # Roulette
+
+[English](README.md) | 简中
+
 ## _一个基于Python随机数的娱乐小游戏_
 
 ## 功能

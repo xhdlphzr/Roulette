@@ -1,4 +1,7 @@
 # Roulette
+
+**English** | [简中](README_zh_cn.md)
+
 ## _A Fun Mini-Game Based on Python Random Numbers_
 
 ## Features
